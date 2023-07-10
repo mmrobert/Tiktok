@@ -1,7 +1,6 @@
 //
 //  Beau_tyUITestsLaunchTests.swift
 //  Beau.tyUITests
-//
 //  Created by Boqian Cheng on 2022-11-26.
 //
 

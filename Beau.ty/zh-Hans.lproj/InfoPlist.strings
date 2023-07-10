@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  Beau.ty
+  Created by Boqian Cheng on 2023-01-13.
+*/
+
+"CFBundleDisplayName" = "美丽瞬间";
+"CFBundleName" = "美丽瞬间";
+"NSMicrophoneUsageDescription" = "开启麦克风使用";
+"NSPhotoLibraryUsageDescription" = "开启相册使用";
+"NSCameraUsageDescription" = "开启摄像头使用";
+"UILaunchStoryboardName" = "LaunchScreen_ch.storyboard";

@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  Beau.ty
+  Created by Boqian Cheng on 2023-01-13.
+*/
+
+"CFBundleDisplayName" = "Beau.ty";
+"CFBundleName" = "Beau.ty";
+"NSMicrophoneUsageDescription" = "Enable Audio Usage";
+"NSPhotoLibraryUsageDescription" = "Enable Albums Usage";
+"NSCameraUsageDescription" = "Enable Camera Usage";
+"UILaunchStoryboardName" = "LaunchScreen.storyboard";

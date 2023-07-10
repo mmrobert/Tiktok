@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  Beau.ty
+  Created by Boqian Cheng on 2022-11-26.
+*/
+
+"Home" = "Home";
+"Post" = "Post";
+"Favorites" = "Favorites";
+"Inbox" = "Inbox";
+"Profile" = "Profile";
+"Max recording time" = "<Max %@ Minutes>";
+"OK" = "OK";
+"Done" = "Done";
+"Cancel" = "Cancel";
+"Record a Video" = "Record a Video";
+"Access to camera and microphone" = "Allow access to your camera and microphone.";
+"Access to camera" = "Allow access to your camera.";
+"Access to microphone" = "Allow access to your microphone.";
+"Settings" = "Settings";
+"Video Device is Unavailable" = "Default Video Device is Unavailable";
+"Audio Device is Unavailable" = "Default Audio Device is Unavailable";
+"Resume" = "Resume";
+"Unable to Resume Video" = "Unable to Resume Video Recording";
+"The selected video is too long" = "The selected video is more than %@ minutes long.";
+"Discard the Video" = "Discard the Video?";
+"Discard the Video Details" = "Discard the Video Details?";
+"Discard" = "Discard";
+"Next" = "Next";
+"Post Video" = "Post Video";
+"Add keyword for search" = "Keywords for search";
+"Hashtags" = "Hashtags";
+"Broadcast Link" = "Broadcast Link";
+"Uploading" = "Uploading...";
+"Uploading Failed" = "Uploading Failed";
+"Please re-upload from Profile" = "Please re-upload now or \n later from Profile when in good network condition.";
+"Uploaded Successfully" = "Uploaded Successfully";
+"Network Error" = "Network Error";
